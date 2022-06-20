@@ -15,7 +15,7 @@ http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3715
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3723
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/WZeNsWy.jpg" group-title="",RTU
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3724
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",GOL TV
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="DEPORTES",GOL TV
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/43
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/aP09cSX.png" group-title="",RTS
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3718
@@ -25,8 +25,12 @@ http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/45
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/4881
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",CARACOL TV
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/dpL5Yy4.png" group-title="",DIRECTV SPORTS
-http://51.222.43.170:36995/live/ANDYDIEG890/WK8HjqJqRnDm/386.ts
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/dpL5Yy4.png" group-title="DEPORTES",FOX SPORT 3
+http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3741
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="DEPORTES",FOX SPORT 2
+http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3740
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="DEPORTES",FORX SPORT 
+http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3739
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",TNT 
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3727
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",CITY TV
@@ -41,10 +45,6 @@ http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3729
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3728
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",CINE PREMIUN
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/33
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",FOX SPORT 2
-http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/22
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",FORX SPORT 
-http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/21
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",TELENOVELAS
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/14
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",CANAL RCN
