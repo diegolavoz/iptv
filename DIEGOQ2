@@ -3,7 +3,7 @@
 https://stmv1.voxhdnet.com/diego7128/diego7128/playlist.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="",YASUNI TV 
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3736
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",ECUAVISA HD
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/DrJTaB0.png" group-title="",ECUAVISA HD
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3720
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-country="HISPAM" tvg-language="English;Spanish" tvg-logo="https://ast.m.wikipedia.org/wiki/Ficheru:Teleamazonas_Logo.png" group-title="",TELEAMAZONAS
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3721
