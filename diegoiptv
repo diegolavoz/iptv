@@ -1,21 +1,23 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml"
-#EXTINF:-1 tvg-id="K18JLD2.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/s5ZaVLM.jpg" group-title="",LORETO TV
+#EXTINF:-1 tvg-id="K18JLD2.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yVcyJPw.png" group-title="",LORETO TV
 https://stmv1.voxhdnet.com/diego7128/diego7128/playlist.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="",YASUNI TV 
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3736
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",ECUAVISA HD
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/DrJTaB0.png" group-title="",ECUAVISA HD
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3720
-##EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",GAMA TV 
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/71t8fWj.png" group-title="",TELEAMAZONAS
+http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3720
+##EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/bdi6J3e.png" group-title="",GAMA TV 
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/41
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",TC TELEVISION
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/IiPzIqd.jpg" group-title="",TC TELEVISION
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3715
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",ECUADOR TV
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/fU8DsLz.png" group-title="",ECUADOR TV
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3723
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",RTU
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/WZeNsWy.jpg" group-title="",RTU
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3724
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",OROMAR TV 
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/43
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",RTS
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/aP09cSX.png" group-title="",RTS
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3718
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",CANELA TV
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/45
@@ -23,10 +25,10 @@ http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/45
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/44
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",CARACOL TV
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",DIRECTV SPORTS
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/dpL5Yy4.png" group-title="",DIRECTV SPORTS
 http://51.222.43.170:36995/live/ANDYDIEG890/WK8HjqJqRnDm/386.ts
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",TNT 
-http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/32
+http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3727
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",CITY TV
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3727
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",CINE FAMILIAR
