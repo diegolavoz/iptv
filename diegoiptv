@@ -16,14 +16,14 @@ http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3723
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/WZeNsWy.jpg" group-title="",RTU
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3724
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7Oh39VE.png" group-title="DEPORTES",FUTBOLECUADOR
-http://23.237.202.196:7283/74qc3gftjeownfbsb44knzd9chluwqpj92qpwbkfbje8p0fr/2022/06/21/07-46-04/8pe6o8ru_62535.ts
+http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/4881
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="DEPORTES",GOL TV
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3746
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",CANELA TV
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/45
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="hhttps://i.imgur.com/DrJTaB0.png" group-title="",CARACOL TV
-http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://logos.fandom.com/es/wiki/Fox_Sports_3_(Latinoam%C3%A9rica)?file=FSA3.png" group-title="DEPORTES",FOX SPORT 3
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/800px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="",CARACOL TV
+http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3759
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="http://4.bp.blogspot.com/-bLTKWx95BAg/VN056ZWXPFI/AAAAAAAAADI/6cj1l1_xe9o/s1600/foxsp3-2015.png" group-title="DEPORTES",FOX SPORT 3
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3741
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1280px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORT 2
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3740
