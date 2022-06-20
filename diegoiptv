@@ -7,8 +7,8 @@ http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3736
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3720
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/71t8fWj.png" group-title="",TELEAMAZONAS
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3720
-##EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/bdi6J3e.png" group-title="",GAMA TV 
-http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/41
+##EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/20YXg0y.png" group-title="",GAMA TV 
+http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3719
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/IiPzIqd.jpg" group-title="",TC TELEVISION
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/3715
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/fU8DsLz.png" group-title="",ECUADOR TV
@@ -81,5 +81,5 @@ http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/25
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/28
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="",TELERAMA
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/34
-#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="",COMEDY CENTRAL
-http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/38
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="",HTV MUSIC
+http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/4447
