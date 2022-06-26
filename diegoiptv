@@ -81,3 +81,5 @@ http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/28
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/34
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="",HTV MUSIC
 http://172.19.35.3:25461//diegoandy@rapi-net/2200176085/4447
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="PELICULAS HD ",
+http://172.19.35.3:25461/movie/diegoandy@rapi-net/2200176085/7665.mp4
